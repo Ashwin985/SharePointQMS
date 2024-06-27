@@ -23,8 +23,9 @@
     -->
     <resources>
       <code path="index.ts" order="1"/>
-      <css path="css/CustomLoginControl.css" order="1" />      
+          
       <!-- UNCOMMENT TO ADD MORE RESOURCES
+      <css path="css/CustomLoginControl.css" order="1" />  
       <resx path="strings/CustomLoginControl.1033.resx" version="1.0.0" />
       -->
     </resources>
